@@ -18,5 +18,6 @@ void main(void) {
     } while (i < 10);
     /*羆㎝*/
     printf("程 %f, 程 %f ", L, S) ; /*挡狦*/ 
+    printf("程 %f, 程 %f ", L, S) ; /*挡狦*/ 
     printf("\n") ;
 }
